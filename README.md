@@ -1,3 +1,5 @@
 # JS-and-CSS-Clock!
-![JS and CSS Clock](https://user-images.githubusercontent.com/84036037/131380795-2165a513-331f-42a9-9cbf-e2d637159413.jpg)
+![Screenshot (7)](https://user-images.githubusercontent.com/84036037/131380963-e55799c2-f7a8-4a14-b7cf-246c02631f46.png)
+
+
 
